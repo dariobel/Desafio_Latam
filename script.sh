@@ -17,3 +17,4 @@ cd ..
 echo "Entrando a la carpeta"
 cd Mi_Carpeta
 echo "Todo bien."
+echo "Hola Mundo"
